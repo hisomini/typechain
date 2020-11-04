@@ -1,2 +1,3 @@
 # typechain
-Learning Typescript by makin a Blockchain with it
+
+Learning Typescript by making a Blockchain with it

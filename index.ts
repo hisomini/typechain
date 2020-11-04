@@ -1,11 +1,10 @@
 const name = "Somin",
-    age= 24,
+    age = 24,
     gender = "female";
 
-const sayHi = (name,age,gender?) =>{
+const sayHi = (name,age,gender?) => {
     console.log(`Hello ${name}, you are ${age}, you are a ${gender}`);
-
-}
+};
 sayHi(name,age);
 
-export {}
+export{};
