@@ -1,0 +1,6 @@
+# Yarn Integrity title
+.yarn-integrity
+
+# dotenv enviroment variables file
+.env
+dist
